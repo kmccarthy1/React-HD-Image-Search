@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-HD-Image-Search/static/css/main.40121d4d.chunk.css",
+    "main.js": "/React-HD-Image-Search/static/js/main.76368a01.chunk.js",
+    "main.js.map": "/React-HD-Image-Search/static/js/main.76368a01.chunk.js.map",
+    "runtime-main.js": "/React-HD-Image-Search/static/js/runtime-main.9b94d44e.js",
+    "runtime-main.js.map": "/React-HD-Image-Search/static/js/runtime-main.9b94d44e.js.map",
+    "static/js/2.631dabfc.chunk.js": "/React-HD-Image-Search/static/js/2.631dabfc.chunk.js",
+    "static/js/2.631dabfc.chunk.js.map": "/React-HD-Image-Search/static/js/2.631dabfc.chunk.js.map",
+    "static/js/3.f7239d2c.chunk.js": "/React-HD-Image-Search/static/js/3.f7239d2c.chunk.js",
+    "static/js/3.f7239d2c.chunk.js.map": "/React-HD-Image-Search/static/js/3.f7239d2c.chunk.js.map",
+    "index.html": "/React-HD-Image-Search/index.html",
+    "static/css/main.40121d4d.chunk.css.map": "/React-HD-Image-Search/static/css/main.40121d4d.chunk.css.map",
+    "static/js/2.631dabfc.chunk.js.LICENSE.txt": "/React-HD-Image-Search/static/js/2.631dabfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b94d44e.js",
+    "static/js/2.631dabfc.chunk.js",
+    "static/css/main.40121d4d.chunk.css",
+    "static/js/main.76368a01.chunk.js"
+  ]
+}
